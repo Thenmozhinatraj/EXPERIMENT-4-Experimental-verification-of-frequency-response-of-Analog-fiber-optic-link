@@ -43,7 +43,8 @@ Fiber optic links can be used for transmission of digital as well as analog sign
 
 ## BLOCK DIAGRAM
 
-*(Insert block diagram here)*
+<img width="1189" height="704" alt="Screenshot 2025-11-11 190114" src="https://github.com/user-attachments/assets/08881b61-42f8-4e62-95b9-13ff3e4be597" />
+
 
 ---
 
@@ -59,16 +60,36 @@ Fiber optic links can be used for transmission of digital as well as analog sign
 
 | Frequency (Hz) | Output Signal Amplitude (Vo) | Gain = Vo/Vi | Gain in dB |
 |----------------|------------------------------|--------------|------------|
-|                |                              |              |            |
+|      800       |           120 mV             |    0.024     |  -32.395   |
+|      1.5k      |           216 mV             |    0.0432    |  -27.290   |
+|      3k        |           412 mV             |    0.134     |  -21.681   |
+|      5k        |           670 mV             |    0.1848    |  -17.457   |
+|      7k        |           924 mV             |    0.19      |  -14.665   |
+|      9k        |           950 mV             |    0.19      |  -14.424   |
+|      11k       |           950 mV             |    0.19      |  -14.424   |
+|      13k       |           950 mV             |    0.19      |  -14.424   |
+|      15k       |           950 mV             |    0.19      |  -14.424   |
+|      50k       |           840 mV             |    0.168     |  -15.493   |
+|      200k      |           385 mV             |    0.077     |  -22.270   |
+|      600k      |           280 mV             |    0.056     |  -25.036   |
+|      800k      |           95 mV              |    0.19      |  -34.424   |
+|      1M        |           58 mV              |    0.011     |  -39.172   |
 
 ---
 
 ## MODEL GRAPH
 
-*(Insert model graph here)*
+<img width="880" height="538" alt="Screenshot 2025-11-11 190804" src="https://github.com/user-attachments/assets/25ece563-cf37-448d-8b86-19078ca43f90" />
+
+
+## GRAPH
+
+![WhatsApp Image 2025-11-12 at 08 02 48_7b21b9fb](https://github.com/user-attachments/assets/f298081c-cef5-481b-b904-f3d5f5b88e90)
+
+
 
 ---
 
 ## RESULT
 
-*(Summarize observations and conclusions here)*
+Thus, the frequency response of the analog fiber optic link was successfully studied, and the bandwidth was determined to be 95 kHz.
